@@ -35,8 +35,8 @@
         "name": "Languages"
       },
       {
-        "id": "tools",
-        "name": "Tools"
+        "id": "process",
+        "name": "Process"
       }
     ],
     "entries": [
@@ -110,7 +110,7 @@
         "key": "code-reviews",
         "id": "code-reviews",
         "title": "Code Reviews",
-        "quadrant": "infrastructure"
+        "quadrant": "process"
       },
       {
         "timeline": [
@@ -124,7 +124,7 @@
         "key": "docs-like-code",
         "id": "docs-like-code",
         "title": "Docs-like-code",
-        "quadrant": "tools"
+        "quadrant": "process"
       },
       {
         "timeline": [
@@ -137,7 +137,7 @@
         "key": "force-push",
         "id": "force-push",
         "title": "Force push to master",
-        "quadrant": "tools"
+        "quadrant": "process"
       },
       {
         "timeline": [
