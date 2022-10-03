@@ -75,6 +75,21 @@
           {
             "moved": 0,
             "ringId": "use",
+            "date": "2020-08-06T00:00:00.000Z",
+            "description": "<p>Golang is best used for any microservices that require asyncronous processes.&nbsp;&nbsp;<a href=\"https://www.w3schools.com/java/default.asp\">Java Tutorial</a></p>"
+          }
+        ],
+        "url": "#",
+        "key": "golang",
+        "id": "golang",
+        "title": "Golang",
+        "quadrant": "languages"
+      },
+      {
+        "timeline": [
+          {
+            "moved": 0,
+            "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z"
           }
         ],
