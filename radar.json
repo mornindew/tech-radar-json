@@ -59,6 +59,21 @@
         "timeline": [
           {
             "moved": 0,
+            "ringId": "approved",
+            "date": "2020-08-06T00:00:00.000Z",
+            "description": "Typescript is slowly overtaking javascript and we recommend it."
+          }
+        ],
+        "url": "#",
+        "key": "typescript",
+        "id": "typescript",
+        "title": "Typescript",
+        "quadrant": "languages"
+      },
+      {
+        "timeline": [
+          {
+            "moved": 0,
             "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z",
             "description": "Java will be the preferred languaged for all microservice development. https://www.w3schools.com/java/default.asp"
