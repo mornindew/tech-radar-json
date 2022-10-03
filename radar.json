@@ -301,8 +301,7 @@
       "id": "zipkin",
       "title": "zipkin",
       "quadrant": "infrastructure"
-      }
-      ,
+      },
       {
       "timeline": [
         {
@@ -316,6 +315,21 @@
       "key": "jaeger",
       "id": "jaeger",
       "title": "Jaeger",
+      "quadrant": "infrastructure"
+      },
+      {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2021-02-09T00:00:00.000Z",
+          "description": "Podman is currently being evaluated by the architecture team.   It is not allowed to be used yet until it has been approved."
+        }
+      ],
+      "url": "#",
+      "key": "podman",
+      "id": "podman",
+      "title": "Podman",
       "quadrant": "infrastructure"
       }
     ]
