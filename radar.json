@@ -118,12 +118,42 @@
           {
             "moved": 0,
             "ringId": "use",
+            "date": "2020-08-06T00:00:00.000Z",
+            "description": "For Java Microservices springboot is the framework that needs to be used.  Click here to see how to properly use springboot."
+          }
+        ],
+        "url": "#",
+        "key": "springboot",
+        "id": "springboot",
+        "title": "SpringBoot",
+        "quadrant": "frameworks"
+      },
+      {
+        "timeline": [
+          {
+            "moved": 0,
+            "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z"
           }
         ],
         "url": "#",
         "key": "code-reviews",
         "id": "code-reviews",
+        "title": "Code Reviews",
+        "quadrant": "process"
+      },
+      {
+        "timeline": [
+          {
+            "moved": 0,
+            "ringId": "use",
+            "date": "2020-08-06T00:00:00.000Z",
+            "description": "All Architectures must follow an architecture review process.  Click here for the process."
+          }
+        ],
+        "url": "#",
+        "key": "arch-reviews",
+        "id": "arch-reviews",
         "title": "Code Reviews",
         "quadrant": "process"
       },
@@ -199,14 +229,30 @@
       "timeline": [
         {
           "moved": 0,
-          "ringId": "hold",
-          "date": "2021-02-09T00:00:00.000Z"
+          "ringId": "assess",
+          "date": "2021-02-09T00:00:00.000Z",
+          "description": "Currently evaluating KubeEdge as an option for moving compute to the edge. "
         }
       ],
       "url": "#",
-      "key": "serverless",
-      "id": "serverless",
-      "title": "Serverless",
+      "key": "kubeedge",
+      "id": "kubeedge",
+      "title": "KubeEdge",
+      "quadrant": "infrastructure"
+      },
+      {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "approved",
+          "date": "2021-02-09T00:00:00.000Z",
+          "description": "Edge-Middle pattern is the pattern for the overall system and all development must adhere to this pattern.   Look at this link for details on how we use it. "
+        }
+      ],
+      "url": "#",
+      "key": "edgemiddle",
+      "id": "edgemiddle",
+      "title": "Edge Middle Pattern",
       "quadrant": "infrastructure"
       }
     ]
