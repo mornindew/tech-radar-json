@@ -61,13 +61,13 @@
             "moved": 0,
             "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z",
-            "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat"
+            "description": "Java will be the preferred languagne for all microservice development"
           }
         ],
         "url": "#",
-        "key": "typescript",
-        "id": "typescript",
-        "title": "TypeScript",
+        "key": "java",
+        "id": "java",
+        "title": "Java",
         "quadrant": "languages"
       },
       {
