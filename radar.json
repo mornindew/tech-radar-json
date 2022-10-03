@@ -61,7 +61,7 @@
             "moved": 0,
             "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z",
-            "description": "<p>Java will be the preferred languaged for all microservice development.&nbsp;&nbsp;<a href=\"https://www.w3schools.com/java/default.asp\">Java Tutorial</a></p>"
+            "description": "Java will be the preferred languaged for all microservice development. https://www.w3schools.com/java/default.asp"
           }
         ],
         "url": "#",
@@ -76,7 +76,7 @@
             "moved": 0,
             "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z",
-            "description": "<p>Golang is best used for any microservices that require asyncronous processes.&nbsp;&nbsp;<a href=\"https://www.w3schools.com/java/default.asp\">Java Tutorial</a></p>"
+            "description": "Golang is best used for any microservices that require asyncronous processes.   https://www.w3schools.com/java/default.asp "
           }
         ],
         "url": "#",
@@ -162,9 +162,9 @@
           }
         ],
         "url": "#",
-        "key": "github-actions",
-        "id": "github-actions",
-        "title": "GitHub Actions",
+        "key": "kubernetes",
+        "id": "kubernetes",
+        "title": "Kubernetes",
         "quadrant": "infrastructure"
       },
       {
@@ -185,15 +185,29 @@
         "timeline": [
           {
             "moved": 0,
-            "ringId": "use",
+            "ringId": "hold",
             "date": "2021-02-09T00:00:00.000Z"
           }
         ],
         "url": "#",
-        "key": "roadie",
-        "id": "roadie",
-        "title": "Managed Backstage",
+        "key": "serverless",
+        "id": "serverless",
+        "title": "Serverless",
         "quadrant": "infrastructure"
+      },
+      {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "hold",
+          "date": "2021-02-09T00:00:00.000Z"
+        }
+      ],
+      "url": "#",
+      "key": "serverless",
+      "id": "serverless",
+      "title": "Serverless",
+      "quadrant": "infrastructure"
       }
     ]
   }
