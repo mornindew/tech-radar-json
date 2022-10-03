@@ -43,7 +43,7 @@
       {
         "timeline": [
           {
-            "moved": 0,
+            "moved": 1,
             "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
@@ -68,6 +68,21 @@
         "key": "java",
         "id": "java",
         "title": "Java",
+        "quadrant": "languages"
+      },
+      {
+        "timeline": [
+          {
+            "moved": 0,
+            "ringId": "hold",
+            "date": "2020-08-06T00:00:00.000Z",
+            "description": "Rust is not approved for use.  It has a lot of values but currently those values do not provide major business benefits."
+          }
+        ],
+        "url": "#",
+        "key": "rust",
+        "id": "rust",
+        "title": "Rust",
         "quadrant": "languages"
       },
       {
@@ -154,7 +169,7 @@
         "url": "#",
         "key": "arch-reviews",
         "id": "arch-reviews",
-        "title": "Code Reviews",
+        "title": "Architecture Reviews",
         "quadrant": "process"
       },
       {
@@ -188,7 +203,8 @@
         "timeline": [
           {
             "ringId": "use",
-            "date": "2020-08-06T00:00:00.000Z"
+            "date": "2020-08-06T00:00:00.000Z",
+            "description": "Container Orchestration tool for us.  All Apps"
           }
         ],
         "url": "#",
