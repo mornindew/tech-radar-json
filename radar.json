@@ -171,6 +171,21 @@
         "id": "code-reviews",
         "title": "Code Reviews",
         "quadrant": "process"
+      },      
+      {
+        "timeline": [
+          {
+            "moved": 0,
+            "ringId": "approved",
+            "date": "2021-02-09T00:00:00.000Z",
+            "description": "Edge-Middle pattern is the pattern for the overall system and all development must adhere to this pattern.   Look at this link for details on how we use it. "
+          }
+        ],
+        "url": "#",
+        "key": "edgemiddle",
+        "id": "edgemiddle",
+        "title": "Edge Middle Pattern",
+        "quadrant": "process"
       },
       {
         "timeline": [
@@ -270,21 +285,6 @@
       "id": "kubeedge",
       "title": "KubeEdge",
       "quadrant": "infrastructure"
-      },
-      {
-      "timeline": [
-        {
-          "moved": 0,
-          "ringId": "approved",
-          "date": "2021-02-09T00:00:00.000Z",
-          "description": "Edge-Middle pattern is the pattern for the overall system and all development must adhere to this pattern.   Look at this link for details on how we use it. "
-        }
-      ],
-      "url": "#",
-      "key": "edgemiddle",
-      "id": "edgemiddle",
-      "title": "Edge Middle Pattern",
-      "quadrant": "process"
       },
       {
       "timeline": [
