@@ -110,7 +110,7 @@
         "key": "code-reviews",
         "id": "code-reviews",
         "title": "Code Reviews",
-        "quadrant": "tools"
+        "quadrant": "infrastructure"
       },
       {
         "timeline": [
