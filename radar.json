@@ -270,6 +270,53 @@
       "id": "edgemiddle",
       "title": "Edge Middle Pattern",
       "quadrant": "infrastructure"
+      },
+      {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "use",
+          "date": "2021-02-09T00:00:00.000Z",
+          "description": "Promethius is the monitoring tool of choice that we will use.  All code that is deployed will need to be monitored, maintained, and alerted in promethius. "
+        }
+      ],
+      "url": "#",
+      "key": "promethius",
+      "id": "promethius",
+      "title": "Promethius",
+      "quadrant": "infrastructure"
+      }
+      ,
+      {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "approved",
+          "date": "2021-02-09T00:00:00.000Z",
+          "description": "Java Based Tracing tool.  We prefer Jaeger but Zipkin is approved.  The tool is less important than the approach to tracing and proper instrumentation."
+        }
+      ],
+      "url": "#",
+      "key": "zipkin",
+      "id": "zipkin",
+      "title": "zipkin",
+      "quadrant": "infrastructure"
+      }
+      ,
+      {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "use",
+          "date": "2021-02-09T00:00:00.000Z",
+          "description": "Jaeger is the recommended tracing tool.  It is built in goLang and a very active community.  Read here for the recommended approach to tracing and here for the specifics of Jaeger."
+        }
+      ],
+      "url": "#",
+      "key": "jaeger",
+      "id": "jaeger",
+      "title": "Jaeger",
+      "quadrant": "infrastructure"
       }
     ]
   }
