@@ -35,6 +35,7 @@ Measureable Deliverables with the process:
 <br>
 <br>
 <br>
+
 ### What is isn't
 
 Before we dig deep into how we innovate ourselves through a technology radar it is important to understand what it isn't.
