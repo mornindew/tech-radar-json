@@ -5,7 +5,8 @@ Distributed Tracing is a critical part of any cloud based implementation.  Our o
 ## Business Benefits
 
 1)  **Time Savings** - Any organization without tracing will lose lots of time (and money) trying to debug issues in any of their applications (production and lower environments)
-2)  **Cross Team Collaboration and Faster development** - often different teams own different services and this helps each respective team to understand their role in the issue and allows teams to work faster
+2)  **Cross Team Collaboration** - often different teams own different services and this helps each respective team to understand their role in the issue and allows teams to work faster
+3)  **Faster Development** - when diagnosing issues happens faster then more cycles are spent on feature development.
 
 # Overview - How it works
 
