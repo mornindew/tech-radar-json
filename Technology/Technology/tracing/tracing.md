@@ -9,7 +9,7 @@ Distributed Tracing is a critical part of any cloud based implementation.  Our o
 
 # Overview - How it works
 
-The way that tracing works is by attaching a trace ID to every unique calls that comes into the system.  From there that trace ID will stay with the call throughout it's entire journey.  Normally some logic will be applied to determine whether the trace record should be recorded or not.  If it is recorded then it will be put into a database.
+The way that tracing works is by attaching a trace ID to every unique calls that comes into the system.  From there that trace ID will stay with the call throughout it's entire journey.  Normally an "agent" will collect the data and then send it to a common Collector.   This "collector" is where rules will be applied as to whether that call should be captured or not.  If it is determined to be collected then it will be put into a database.  Below is an overview of the Jaeger Architecture and it is pretty similar with Zipkin.  
 
 <br>
 <img src="images/jaeger_architecture-min.png" width="1000">
