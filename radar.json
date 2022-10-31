@@ -178,7 +178,7 @@
             "moved": 0,
             "ringId": "use",
             "date": "2020-08-06T00:00:00.000Z",
-            "description": "Tracing is critical for any microservice developer.  It is a fast evolving space with a commoditization happening.   https://github.com/mornindew/tech-radar-json/blob/main/Technology/Technology/tracing/tracing.md"
+            "description": "Tracing is critical for any distributed computing environment.  It is a MUST DO in every implementation.   https://github.com/mornindew/tech-radar-json/blob/main/Technology/Technology/tracing/tracing.md"
           }
         ],
         "url": "#",
