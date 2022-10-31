@@ -28,6 +28,7 @@ Measureable Deliverables with the process:
 4.  **Knowledge Base** - Documentation of our patterns, anti-patterns, training plans, and benefits and drawbacks
 5.  **Innovation Presentation** - Routine presentations back to our key clients on our tech radar and how it could pertain to them.  Could be powerful in an EBC.
 6.  **Client Offering** - A key component of our technology strategy offering for our customers (e.g. We set up this process for them)
+7.  **Tech Radar** - A real time view into how we view the technology landscape and what it means for us.
 
 <br>
 <img src="config/images/exampleRadar.png" width="1000">
